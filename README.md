@@ -4,7 +4,7 @@
 ![Общая архитектура](img/общая_архитектура.svg)
 
 ### IF
-![Схема IF](img/if.svg)
+![Схема IF](img/IF.svg)
 
 ### EX
-![Схема EX](img/ex.svg)
+![Схема EX](img/EX.svg)
